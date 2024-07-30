@@ -16,6 +16,10 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Saran_E)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Saran_E&theme=dark" alt="LeetCode Badges" width="500" />
+
+
+
 <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=Saran_E&theme=dark" alt="LeetCode Badges" width="470" /> -->
 
 
